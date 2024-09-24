@@ -65,7 +65,7 @@ FOR boid in boids
 
 ### Functionality
 - Implement the predator boid
-- Add cursor interaction so you can attract the flock with your cursor
+- Fine-tune steering process
 - Add live adjustments to the number of boids
 - Add obstacles instead of a blank window
 
